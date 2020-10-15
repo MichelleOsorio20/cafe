@@ -1,4 +1,4 @@
-import { environment as common } from './environment';
+import { environment } from './environment';
 
 export const environment = {
   ...common,
